@@ -8,7 +8,7 @@
 ## #让科技遇见她 #一小时编程挑战 的两个小故事
 与其说分享克服性别偏见的故事，不如说是做自己的故事。女孩遇到的种种“反对”在生活中那么常见，但没有阻拦我们的，终究会让我们拥有自信说“no”的勇气。
 
-![520]({{ site.baseurl }}/assets/images/520.jpg)
+![520]({{ site.baseurl }}/assets/images/520.png)
 > 两个数学系女孩整个寒假奋战第一次数模比赛  
-![521]({{ site.baseurl }}/assets/images/521.jpg)
+![521]({{ site.baseurl }}/assets/images/521.png)
 > 在男女比例5:1的实验室做survey的presentation  
