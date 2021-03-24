@@ -1,5 +1,5 @@
 # "/" + 仓库的名字. 资源文件的路径组成部分
-baseurl: "/my-first-blog"
+baseurl: "/My-first-blog"
 
 # 网站的主标题
 title: "Girls Coding Day"
